@@ -92,7 +92,7 @@ cd coins_detection
 
 </tr>
 <tr>
-<td><a href="https://core.telegram.org/" rel="nofollow">Generating Telegram API key</a></td>
+<td><a href="https://my.telegram.org/auth" rel="nofollow">Generating Telegram API key</a></td>
 <td><a href="https://colab.research.google.com/drive/1WwAmPyLqE6y0UvUXRE1UqMWo3LUUeZd-#scrollTo=WX_IJGdEyZqX" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Open In Colab" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"  width="25" 
      height="25" style="max-width: 100;"></a></td>
 
