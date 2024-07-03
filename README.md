@@ -65,8 +65,13 @@ git clone https://github.com/FawazAlsheikhi/coins_detection.git
 </thead>
 <tbody>
 <tr>
-<td><a href="https://docs.ultralytics.com/modes/" rel="nofollow">YOLOv8 Custom dataset training</a></td>
+<td><a href="https://docs.ultralytics.com/modes" rel="nofollow">YOLOv8 Custom dataset training</a></td>
 <td><a href="https://colab.research.google.com/drive/1WwAmPyLqE6y0UvUXRE1UqMWo3LUUeZd-#scrollTo=WX_IJGdEyZqX" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+
+</tr>
+<tr>
+<td><a href="https://core.telegram.org/" rel="nofollow">Generating Telegram API key</a></td>
+<td><a href="https://colab.research.google.com/drive/1WwAmPyLqE6y0UvUXRE1UqMWo3LUUeZd-#scrollTo=WX_IJGdEyZqX" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Open In Colab" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" style="max-width: 100;"></a></td>
 
 </tr>
 
