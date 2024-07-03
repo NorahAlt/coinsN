@@ -5,7 +5,7 @@
 
 <details open="">
 <summary>prepare diriectory and clone the respoitory</summary>
-<p dir="auto">Description</p>
+<p dir="auto">open the windows PowerShell</p>
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>
 winget install --id Git.Git -e --source winget
@@ -25,7 +25,7 @@ cd coins_detection
 </details>
 <details close="">
 <summary>Install libararies</summary>
-<p dir="auto">Description</p>
+<p dir="auto">install the following libraries using pip3</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip3 install ultralytics telethon </pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install ultralytics" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
@@ -42,7 +42,7 @@ cd coins_detection
 </details>
 <details close="">
 <summary>Customize the conf.json configuration file</summary>
-<p dir="auto">Description</p>
+<p dir="auto">add your Telegram API key to the conf.json file</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>{
     "api_id": "2590620091",
     "api_key": "10cc8a03942f6a62bc43dw23421"
@@ -63,7 +63,7 @@ cd coins_detection
 
 <details close="">
 <summary>running the bot</summary>
-<p dir="auto">Description </p>
+<p dir="auto">run the following command to run the python script </p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python3 coins_bot.py</pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install ultralytics" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
