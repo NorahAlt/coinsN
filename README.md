@@ -8,6 +8,7 @@
 <p dir="auto">Description</p>
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>
+winget install --id Git.Git -e --source winget
 git clone https://github.com/FawazAlsheikhi/coins_detection.git
 cd coins_detection
 </pre><div class="zeroclipboard-container">
